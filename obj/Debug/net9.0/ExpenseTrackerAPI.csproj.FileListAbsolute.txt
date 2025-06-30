@@ -178,3 +178,4 @@ C:\Users\zhomo\OneDrive\Documents\React Projects\ExpenseTrackerDashboard\server\
 C:\Users\zhomo\OneDrive\Documents\React Projects\ExpenseTrackerDashboard\server\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\zhomo\OneDrive\Documents\React Projects\ExpenseTrackerDashboard\server\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\zhomo\OneDrive\Documents\React Projects\ExpenseTrackerDashboard\server\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zhomo\OneDrive\Documents\React Projects\ExpenseTrackerDashboard\server\ExpenseTrackerAPI\obj\Debug\net9.0\ExpenseTrackerAPI.sourcelink.json
